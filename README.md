@@ -2,6 +2,7 @@
 
 # 🍽️ Zomato Restaurant Ratings Analysis (EDA)
 
+
 Exploratory Data Analysis of restaurant ratings to identify how factors such as online ordering, table booking, votes, pricing, and restaurant type influence customer ratings.
 
 </div>
